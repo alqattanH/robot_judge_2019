@@ -7,7 +7,7 @@ Created on Sat Jul 29 19:31:10 2017
 """
 
 # set this to your working directory
-WORK_DIR = '/home/elliott/Dropbox/_Ash_Teaching/2018-09 - Bocconi - Text Data and ML/code'
+WORK_DIR = '/Users/H/Documents/ETH/Spring2019/RobotJudge'
 
 from nltk.stem import SnowballStemmer
 from nltk import sent_tokenize, word_tokenize
